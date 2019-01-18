@@ -2,8 +2,6 @@
 
 Keyword: VQA CNN RNN LSTM GRU TORCH 
 
-![AI](https://cloud.githubusercontent.com/assets/10870023/15724955/5c194da2-27fe-11e6-8d85-2607a3acce28.jpg)
-
 This work explores image question answering (VQA) with different neural network models and reproduces the experimental conclusions presented by previous researchers in this area. 
 
 The code is developed based on Abhishek Das's code https://github.com/abhshkdz/neural-vqa, and the paper
@@ -101,15 +99,6 @@ th predict.lua -checkpoint_file checkpoints/vqa_epoch23.26_0.4610.t7 -input_imag
 #### Options
 
 - 'For more information please check the comment inside the source code file'
-
-## Sample predictions
-
-Sample questions and answers predicted by the VIS+RNN/LSTM/GRU model.
-
-![](https://cloud.githubusercontent.com/assets/10870023/15725763/3aff866e-2802-11e6-97ce-7788b9cd7844.png)
-
-![](https://cloud.githubusercontent.com/assets/10870023/15725789/58d71300-2802-11e6-94c6-18bfbf555553.png)
-
 
 ## References
 
